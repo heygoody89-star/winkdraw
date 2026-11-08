@@ -1,0 +1,4 @@
+mediapipe>=1.2
+opencv-python
+PySide6
+numpy
